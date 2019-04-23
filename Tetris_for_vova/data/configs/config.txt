@@ -1,0 +1,15 @@
+HGE tetris application settings config
+Resolution
+Width:
+1600
+Heigth:
+600
+Screen BPP:
+20
+Field
+Width:
+20
+Height:
+20
+Music:
+false
